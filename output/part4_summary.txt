@@ -1,0 +1,23 @@
+Part 4A: Melanoma, PBMC, miraclib, baseline (time_from_treatment_start = 0)
+------------------------------------------------------------------------------
+Total samples in cohort: 656
+Total subjects in cohort: 656
+
+Samples per project:
+project_id  n_samples
+      prj1        384
+      prj3        272
+
+Subjects by response:
+response  n_subjects
+      no         325
+     yes         331
+
+Subjects by sex:
+sex  n_subjects
+  F         312
+  M         344
+
+Part 4B: Melanoma males, all sample & treatment types, responders, time=0
+------------------------------------------------------------------------------
+Average b_cell count: 10206.15
