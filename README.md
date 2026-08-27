@@ -19,7 +19,8 @@ this repository from `cell-count.csv` alone.
 **Dashboard:** `make dashboard` runs `streamlit run dashboard/app.py` on
 `localhost:8501`. In Codespaces, forward/open port 8501 to get a public
 preview URL. *(If deployed to Streamlit Community Cloud, the live link is:
-`<https://miniature-broccoli-9wpv5wjwvvw2p56p-8501.app.github.dev/>` — see "Deploying the dashboard" below.)*
+`<teiko---technical-2xmlk9xp7kemu7sx5f8u7s
+.streamlit.app>` — see "Deploying the dashboard" below.)*
 
 ## Repository layout
 
